@@ -13,8 +13,14 @@ sites:
     url: https://webss.yasirapi.eu.org
   - name: URL Shortener
     url: http://url.yasirweb.eu.org
+  - name: Paste API
+    url: https://paste.yasirapi.eu.org/
   - name: Personal Blog
     url: https://yasirweb.eu.org
+  - name: Landing Page
+    url: https://yasirpedia.eu.org
+  - name: Subscene Mirror
+    url: https://sub.yasirweb.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
