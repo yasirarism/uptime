@@ -21,6 +21,8 @@ sites:
     url: https://yasirpedia.eu.org
   - name: Subscene Mirror
     url: https://sub.yasirweb.eu.org
+  - name: Git Server
+    url: https://git.yasirweb.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
