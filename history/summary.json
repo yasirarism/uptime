@@ -13,7 +13,7 @@
     "time": 810,
     "timeDay": 1178,
     "timeWeek": 542,
-    "timeMonth": 810,
+    "timeMonth": 806,
     "timeYear": 810,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 619,
     "timeDay": 465,
     "timeWeek": 1094,
-    "timeMonth": 619,
+    "timeMonth": 623,
     "timeYear": 619,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 352,
     "timeDay": 389,
     "timeWeek": 343,
-    "timeMonth": 352,
+    "timeMonth": 354,
     "timeYear": 352,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 222,
     "timeDay": 135,
     "timeWeek": 219,
-    "timeMonth": 222,
+    "timeMonth": 216,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 177,
     "timeDay": 174,
     "timeWeek": 231,
-    "timeMonth": 238,
+    "timeMonth": 232,
     "timeYear": 238,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 510,
     "timeDay": 753,
     "timeWeek": 569,
-    "timeMonth": 510,
+    "timeMonth": 511,
     "timeYear": 510,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "url": "https://sub.yasirweb.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.yasirweb.eu.org.ico",
     "slug": "subscene-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
