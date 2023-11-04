@@ -166,17 +166,17 @@
     "url": "https://git.yasirweb.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.yasirweb.eu.org.ico",
     "slug": "git-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 787,
-    "timeWeek": 643,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 533,
+    "timeDay": 612,
+    "timeWeek": 620,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   }
 ]
