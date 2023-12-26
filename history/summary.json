@@ -40,7 +40,7 @@
     "url": "https://tor.yasirapi.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/tor.yasirapi.eu.org.ico",
     "slug": "torrent-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 595,
     "timeDay": 513,
-    "timeWeek": 573,
+    "timeWeek": 602,
     "timeMonth": 614,
     "timeYear": 595,
     "dailyMinutesDown": {}
