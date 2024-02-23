@@ -103,7 +103,7 @@
     "time": 702,
     "timeDay": 419,
     "timeWeek": 402,
-    "timeMonth": 1302,
+    "timeMonth": 1322,
     "timeYear": 702,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "url": "https://sub.yasirweb.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.yasirweb.eu.org.ico",
     "slug": "subscene-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
