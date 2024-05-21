@@ -1,7 +1,7 @@
 url: https://yasirapi.eu.org
-status: up
-code: 200
-responseTime: 349
-lastUpdated: 2024-05-20T23:04:20.699Z
+status: down
+code: 502
+responseTime: 1650
+lastUpdated: 2024-05-21T15:26:44.638Z
 startTime: 2023-09-19T03:24:12.850Z
 generator: Upptime <https://github.com/upptime/upptime>
