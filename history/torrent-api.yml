@@ -1,7 +1,7 @@
 url: https://tor.yasirapi.eu.org
-status: down
-code: 503
-responseTime: 245
-lastUpdated: 2024-09-08T23:07:51.329Z
+status: up
+code: 200
+responseTime: 282
+lastUpdated: 2024-09-09T02:58:22.117Z
 startTime: 2023-09-19T03:18:46.223Z
 generator: Upptime <https://github.com/upptime/upptime>
