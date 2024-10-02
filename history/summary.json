@@ -148,7 +148,7 @@
     "url": "https://sub.yasirweb.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/sub.yasirweb.eu.org.ico",
     "slug": "subscene-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -175,7 +175,7 @@
     "time": 591,
     "timeDay": 435,
     "timeWeek": 531,
-    "timeMonth": 535,
+    "timeMonth": 540,
     "timeYear": 591,
     "dailyMinutesDown": {}
   }
