@@ -1,7 +1,7 @@
 url: https://paste.yasirapi.eu.org/
-status: up
-code: 200
-responseTime: 1046
-lastUpdated: 2025-07-08T03:00:46.860Z
+status: down
+code: 429
+responseTime: 925
+lastUpdated: 2025-07-08T07:33:05.900Z
 startTime: 2023-09-27T14:44:59.916Z
 generator: Upptime <https://github.com/upptime/upptime>
