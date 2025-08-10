@@ -58,13 +58,13 @@
     "url": "https://webss.yasirapi.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/webss.yasirapi.eu.org.ico",
     "slug": "webss-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 483,
+    "time": 484,
     "timeDay": 173,
     "timeWeek": 348,
     "timeMonth": 461,
@@ -76,7 +76,7 @@
     "url": "http://url.yasirweb.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/url.yasirweb.eu.org.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 761,
     "timeDay": 532,
-    "timeWeek": 670,
+    "timeWeek": 662,
     "timeMonth": 771,
     "timeYear": 747,
     "dailyMinutesDown": {}
@@ -176,7 +176,7 @@
     "timeDay": 414,
     "timeWeek": 484,
     "timeMonth": 520,
-    "timeYear": 591,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   }
 ]
