@@ -1,7 +1,7 @@
 url: https://sub.yasirweb.eu.org
-status: up
-code: 200
-responseTime: 303
-lastUpdated: 2025-09-29T23:08:18.251Z
+status: down
+code: 503
+responseTime: 164
+lastUpdated: 2025-09-30T13:56:27.930Z
 startTime: 2023-09-27T14:45:02.247Z
 generator: Upptime <https://github.com/upptime/upptime>
