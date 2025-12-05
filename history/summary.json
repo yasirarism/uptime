@@ -14,7 +14,7 @@
     "timeDay": 449,
     "timeWeek": 548,
     "timeMonth": 711,
-    "timeYear": 907,
+    "timeYear": 908,
     "dailyMinutesDown": {}
   },
   {
@@ -94,17 +94,17 @@
     "url": "https://paste.yasirapi.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/paste.yasirapi.eu.org.ico",
     "slug": "paste-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 763,
-    "timeDay": 394,
-    "timeWeek": 734,
-    "timeMonth": 905,
-    "timeYear": 787,
+    "timeDay": 456,
+    "timeWeek": 717,
+    "timeMonth": 894,
+    "timeYear": 786,
     "dailyMinutesDown": {}
   },
   {
